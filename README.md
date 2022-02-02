@@ -1,12 +1,13 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Ribas</h1>
 
-- 🌱 I am currently improving web-development skills while I search for my first job as a web-developer.
-
-- 💬 Let's talk!
+- 🌱 I'm currently improving web-development skills while I search for my first job as a web developer.
+- 👨‍💻 I’m looking to collaborate on frontend or full stack projects.
+- 🎓 I've been working as a lawyer for years. Now I am transitioning to web development.
+- 💬 Do you wanna talk? Let's talk!
 
 <br>
 
-## 🛠 &nbsp;Techs in use
+## 🛠 &nbsp;Techs I've already implemented
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -17,38 +18,34 @@
 
 <br>
 
-<!-- 
-## 🛠 &nbsp;Techs I am currently learning
+## 📝 &nbsp;Techs I am currently learning
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MongoDB](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
-<br><br>
--->
+<br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroibribas&layout=compact&theme=vision-friendly-dark" alt="pedroibribas's most languages"/>
+<p align="center">
+<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroibribas&theme=radical" alt="pedroibribas's most languages"/>
 </p>
 
-<br><br>
+<br>
 
-<!--
-## 🦲 &nbsp;Social Links
+## 🚀 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+<a href="https://linkedin.com/in/pedroibribas/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-pedroibribas-blue?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/pedroivo.ribas/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-pedroibribas-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
 </a>
 </p>
--->
 
 <!--
 **pedroibribas/pedroibribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -63,4 +60,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+Links:
+- https://shields.io/
+- https://github.com/anuraghazra/github-readme-stats#top-languages-card
 -->
