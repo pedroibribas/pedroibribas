@@ -1,8 +1,6 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Ribas</h1>
 
-- 🌱 I'm currently improving web-development skills while I search for my first job as a web developer.
 - 👨‍💻 I’m looking to collaborate on frontend or full stack projects.
-- 🎓 I've been working as a lawyer for years. Now I am transitioning to web development.
 - 💬 Do you wanna talk? Let's talk!
 
 <br>
