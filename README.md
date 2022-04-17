@@ -1,31 +1,31 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Ribas</h1>
 
-- 👨‍💻 I’m looking to collaborate on frontend or full stack projects.
-- 💬 Do you wanna talk? Let's talk!
+- 👨‍💻 I’m a web developer. I build projects mainly with ReactJS.
 
 <br>
 
-## 🛠 &nbsp;Techs I've already implemented
+## 🛠 &nbsp;Techs
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![ReactJs](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=61dafb)&nbsp;
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp; -->
 
 <br>
 
-## 📝 &nbsp;Techs I am currently learning
+<!-- ## 📝 &nbsp;Techs I am currently learning
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
 
 <br>
 
