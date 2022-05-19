@@ -25,18 +25,18 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; -->
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; 
 
-<br>
+<br> -->
 
-## ⚙️ &nbsp;GitHub Analytics
+<!--- ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedroibribas&show_icons=true&theme=radical" alt="pedroibribas's most languages"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroibribas&theme=radical" alt="pedroibribas's most languages"/>
 </p>
 
-<br>
+<br> -->
 
 ## 🚀 &nbsp;Social Links
 
