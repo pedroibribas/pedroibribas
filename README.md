@@ -1,55 +1,5 @@
-<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Pedro Ribas</h1>
-
-- 👨‍💻 I’m a web developer. I build projects mainly with ReactJS.
-
-<br>
-
-## 🛠 &nbsp;Techs
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![ReactJs](https://img.shields.io/badge/-ReactJS-05122A?style=flat&logo=react&logoColor=61dafb)&nbsp;
-<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp; -->
-
-<br>
-
-<!-- ## 📝 &nbsp;Techs I am currently learning
-
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
-![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp; 
-
-<br> -->
-
-<!--- ## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedroibribas&show_icons=true&theme=radical" alt="pedroibribas's most languages"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroibribas&theme=radical" alt="pedroibribas's most languages"/>
-</p>
-
-<br> -->
-
-## 🚀 &nbsp;Social Links
-
-<p align="left" style="background:yellow">
-  <a href="https://linkedin.com/in/pedroibribas/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-pedroibribas-blue?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-  <a href="https://instagram.com/pedroivo.ribas/" target="_blank">
-   <img align="center" src="https://img.shields.io/badge/-pedroibribas-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
-  </a>
-</p>
-
-<!--
+<!-- COMENTÁRIO
+Este é o modelo padrão do README com algumas ideias
 **pedroibribas/pedroibribas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -64,8 +14,80 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-Links:
-- https://shields.io/
-- https://github.com/anuraghazra/github-readme-stats#top-languages-card
+<h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Sou Pedro Ribas</h1>
+
+Sou especializado no desenvolvimento web frontend, para a criação das interfaces visuais de sites e aplicativos. Até o momento, meu portfolio se baseia em projetos fictícios para fins pedagógicos.
+
+Minha principal ferramenta de trabalho é o ReactJS. O ReactJS é amplamente popular no mercado, e permite criar interfaces modernas e extremamente reativas às ações do usuário. Para projetos fullstack, eu utilizo NodeJS/Express e MongoDB.
+
+<br />
+
+## &nbsp;Tecnologias principais
+
+<!-- COMENTÁRIO
+Estas são sugestões de tecnologias para copiar e colar
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp; 
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![TypeScript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
+![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 -->
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![ReactJs](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=react&logoColor=61dafb)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
+
+<img
+  height="250em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroibribas&theme=radical"
+  alt="pedroibribas's most languages"
+/>
+
+<br />
+
+<!-- COMENTÁRIO
+Esta é uma sugestão de título
+## ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedroibribas&show_icons=true&theme=radical" alt="pedroibribas's most languages"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroibribas&theme=radical" alt="pedroibribas's most languages"/>
+</p>
+
+<br/>
+
+-->
+
+## Links
+
+<!-- COMENTÁRIO
+Este é um modelo de links para copiar e colar
+<p align="left" style="background:yellow">
+  <a href="https://linkedin.com/in/pedroibribas/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-pedroibribas-blue?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/pedroivo.ribas/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-pedroibribas-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
+  </a>
+</p>
+-->
+
+<p align="center">
+  <a href="https://www.pedroribasdev.com" target="_blank" />
+    <img align="center" src="https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge" alt="portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/pedroibribas/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" alt="linkedin"/>
+  </a>
+  <a href="https://instagram.com/pedroivo.ribas/" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-Instagram-ff69b4?style=for-the-badge&logoColor=white" alt="instagram"/>
+  </a>
+</p>
