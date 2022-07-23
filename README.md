@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Sou Pedro Ribas</h1>
 
-Sou especializado no desenvolvimento web frontend, para a criação das interfaces visuais de sites e aplicativos. Até o momento, meu portfolio se baseia em projetos fictícios para fins pedagógicos.
+Sou especializado no desenvolvimento web frontend, para a criação das interfaces visuais de sites e aplicativos.
 
 Minha principal ferramenta de trabalho é o ReactJS. O ReactJS é amplamente popular no mercado, e permite criar interfaces modernas e extremamente reativas às ações do usuário. Para projetos fullstack, eu utilizo NodeJS/Express e MongoDB.
 
