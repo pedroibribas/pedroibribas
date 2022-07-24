@@ -24,10 +24,17 @@ Para a criação de servidores e banco de dados (backend), eu utilizo NodeJS/Exp
 
 <br />
 
-## &nbsp;Tecnologias principais
 
 <!-- COMENTÁRIO
+## &nbsp;Tecnologias principais
+
 Estas são sugestões de tecnologias para copiar e colar
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
+![ReactJs](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=react&logoColor=61dafb)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
@@ -40,13 +47,6 @@ Estas são sugestões de tecnologias para copiar e colar
 ![yarn](https://img.shields.io/badge/-yarn-05122A?style=flat&logo=yarn)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 -->
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat-square&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6)&nbsp;
-![ReactJs](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=react&logoColor=61dafb)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat-square&logo=node.js)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
 
 <img
   height="250em"
