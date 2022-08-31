@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Sou Pedro Ribas</h1>
 
-Sou especializado no desenvolvimento de sites e aplicativos para a web.
-
-Minha principal ferramenta de trabalho para a criação de interfaces do usuário (frontend) é o ReactJS. O ReactJS é amplamente popular no mercado, e permite criar visuais modernos e extremamente reativos às ações do usuário.
-
-Para a criação de servidores e banco de dados (backend), eu utilizo NodeJS/Express e MongoDB, que permitem uma integração prática e natural com o ReactJS.
+Sou especializado no desenvolvimento web frontend, para a criação das interfaces visuais de sites e aplicativos. Minha principal tecnologia de trabalho é o ReactJS. Para projetos com backend, eu utilizo NodeJS/Express e MongoDB.
 
 <br />
 
