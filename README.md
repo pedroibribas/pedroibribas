@@ -75,13 +75,13 @@ Este é um modelo de links para copiar e colar
   <a href="https://instagram.com/pedroivo.ribas/" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-pedroibribas-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram"/>
   </a>
+    <a href="https://www.pedroribasdev.com" target="_blank" />
+    <img align="center" src="https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge" alt="portfolio"/>
+  </a>
 </p>
 -->
 
 <p align="center">
-  <a href="https://www.pedroribasdev.com" target="_blank" />
-    <img align="center" src="https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge" alt="portfolio"/>
-  </a>
   <a href="https://linkedin.com/in/pedroibribas/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge" alt="linkedin"/>
   </a>
