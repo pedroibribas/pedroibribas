@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Sou Pedro Ribas</h1>
 
-Sou especializado no desenvolvimento web frontend, para a criação das interfaces visuais de sites e aplicativos. Minha principal tecnologia de trabalho é o ReactJS. Para projetos com backend, eu utilizo NodeJS/Express e MongoDB.
+Sou especializado no desenvolvimento web frontend, para a criação das interfaces visuais de sites e aplicativos. Minha principal tecnologia de trabalho é o ReactJS. Para projetos com backend, eu utilizo NodeJS/Express.
 
 <br />
 
