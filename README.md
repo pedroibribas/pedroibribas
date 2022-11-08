@@ -50,6 +50,8 @@ Estas são sugestões de tecnologias para copiar e colar
   alt="pedroibribas's most languages"
 />
 
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=pedroibribas&show_icons=true&theme=radical" alt="pedroibribas's most languages"/>
+
 <br />
 
 <!-- COMENTÁRIO
