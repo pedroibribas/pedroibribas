@@ -3,7 +3,7 @@ Sou programador especializado no desenvolvimento web.
 
 **Linguagens:** JavaScript e C#
 
-**Frameworks:** ReactJs, Angular, ExpressJs, Dotnet
+**Frameworks:** ReactJs, Angular, ExpressJs, .NET
 
 ## Stats
 <div>
