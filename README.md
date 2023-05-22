@@ -1,9 +1,5 @@
-# Hello, world!
-Sou programador especializado no desenvolvimento web.
-
-**Linguagens:** JavaScript e C#
-
-**Frameworks:** ReactJs, Angular, ExpressJs, .NET
+# Introdução
+Sou programador fullstack, e atualmente trabalho com TypeScript e C#.
 
 ## Stats
 <div>
